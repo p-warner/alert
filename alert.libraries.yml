@@ -1,0 +1,6 @@
+alert-js:
+  version: 0.21
+  js:
+    js/alert.js: {attributes: { defer: true, async: true} }
+  dependencies:
+    - core/jquery
