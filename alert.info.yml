@@ -1,0 +1,8 @@
+name: Regular Alert Module 
+type: module
+description: Read the Omni Alert feed and display on site.
+package: Penn College Modules
+core: 8.x 
+core_version_requirement: ^8 || ^9
+dependencies:
+  - node
